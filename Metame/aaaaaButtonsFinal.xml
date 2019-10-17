@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="aaaaaButtonsFinal" set="TBOS-BodyTalk-V2">
+        <SetSlider name="BTAMPecAdjust" size="big" value="57"/>
+        <SetSlider name="BTAbDefinition" size="big" value="65"/>
+        <SetSlider name="BTBallSize" size="big" value="100"/>
+        <SetSlider name="BTButt" size="big" value="86"/>
+        <SetSlider name="BTFlyGrayson" size="big" value="41"/>
+        <SetSlider name="BTHips-In" size="big" value="48"/>
+        <SetSlider name="BTPectorals" size="big" value="34"/>
+        <SetSlider name="BTStomach" size="big" value="11"/>
+        <SetSlider name="BTThigh" size="big" value="18"/>
+        <SetSlider name="BTWaist-In" size="big" value="100"/>
+        <SetSlider name="Balls" size="big" value="51"/>
+        <SetSlider name="Penis Width" size="big" value="8.041125535964966"/>
+    </Preset>
+</SliderPresets>
