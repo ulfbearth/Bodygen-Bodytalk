@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
-    <Preset name="aaaaaButtonsFinal" set="TBOS-BodyTalk-V2">
+    <Preset name="ButtonsPreset" set="TBOS-BodyTalk-V2">
         <SetSlider name="BTAMPecAdjust" size="big" value="57"/>
         <SetSlider name="BTAbDefinition" size="big" value="65"/>
         <SetSlider name="BTBallSize" size="big" value="100"/>
