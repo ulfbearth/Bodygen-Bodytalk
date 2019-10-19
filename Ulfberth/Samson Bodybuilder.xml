@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Samson Bodybuilder" set="OutfitStudioFrame">
+        <Group name="ASA1"/>
+        <Group name="CBBE"/>
+        <Group name="Fusion Girl"/>
+        <Group name="MLU Male"/>
+        <Group name="Super Hero Body"/>
+        <Group name="TBOS - BodyTalk - Nude Bodies"/>
+        <Group name="TBOS-BT2"/>
+		<SetSlider name="AryaydaMuscleSlider" size="big" value="100"/>
+        <SetSlider name="BTAMPecAdjust" size="big" value="100"/>
+        <SetSlider name="BTAMShoulderTweaks" size="big" value="100"/>
+        <SetSlider name="BTARYAYDA" size="big" value="100"/>
+        <SetSlider name="BTAryaydaMoreMuscular" size="big" value="100"/>
+        <SetSlider name="BTBackArch" size="big" value="100"/>
+        <SetSlider name="BTBiceps" size="big" value="100"/>
+        <SetSlider name="BTButtWidth" size="big" value="70"/>
+        <SetSlider name="BTCalves" size="big" value="100"/>
+        <SetSlider name="BTChubbyArm" size="big" value="100"/>
+        <SetSlider name="BTChubbyLeg" size="big" value="100"/>
+        <SetSlider name="BTElbowAdjust" size="big" value="98"/>
+        <SetSlider name="BTForearms" size="big" value="100"/>
+        <SetSlider name="BTKneeAdust" size="big" value="94"/>
+        <SetSlider name="BTShinSize" size="big" value="100"/>
+        <SetSlider name="BTThigh" size="big" value="23"/>
+        <SetSlider name="BTTraps" size="big" value="5"/>
+        <SetSlider name="Penis Width" size="big" value="100"/>
+        <SetSlider name="ThinThigh" size="big" value="100"/>
+        <SetSlider name="TigerSanBBMale" size="big" value="25"/>		
+        <SetSlider name="BTAMWaistAdust" size="big" value="0"/>
+        <SetSlider name="BTWaist-In" size="big" value="0"/>
+        <SetSlider name="BTAbDefinition" size="big" value="0"/>
+        <SetSlider name="BTBack" size="big" value="0"/>
+        <SetSlider name="BTBallSize" size="big" value="0"/>
+        <SetSlider name="BTButt" size="big" value="0"/>
+        <SetSlider name="BTFootSize" size="big" value="0"/>
+        <SetSlider name="BTToeSmaller" size="big" value="0"/>
+        <SetSlider name="BTChest" size="big" value="0"/>
+        <SetSlider name="BTChestSmoothing" size="big" value="0"/>
+        <SetSlider name="BTHips-In" size="big" value="0"/>
+        <SetSlider name="BTNippleSize" size="big" value="0"/>
+        <SetSlider name="BTPectorals" size="big" value="0"/>
+        <SetSlider name="BTRibcage" size="big" value="0"/>
+        <SetSlider name="BTShoulders" size="big" value="0"/>
+        <SetSlider name="BTStomach" size="big" value="0"/>
+        <SetSlider name="BTStomachFat" size="big" value="0"/>
+        <SetSlider name="BTStomachSmooth" size="big" value="0"/>
+        <SetSlider name="BTTHinCalf" size="big" value="0"/>
+        <SetSlider name="BTWaist-Smoothing" size="big" value="0"/>
+        <SetSlider name="Balls" size="big" value="0"/>
+        <SetSlider name="Testicle Size" size="big" value="0"/>
+        <SetSlider name="Erection" size="big" value="0"/>
+        <SetSlider name="BTFlyGrayson" size="big" value="0"/>
+ 
+    </Preset>
+</SliderPresets>
