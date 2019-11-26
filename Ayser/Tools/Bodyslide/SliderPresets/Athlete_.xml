@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="Athlete " set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
         <Group name="TBOS-BT2"/>
         <SetSlider name="BT2AdonisBelt" size="big" value="22"/>
         <SetSlider name="BTAMPecAdjust" size="big" value="49"/>

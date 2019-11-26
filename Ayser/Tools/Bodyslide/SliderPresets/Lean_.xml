@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="Lean " set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
         <Group name="TBOS-BT2"/>
         <SetSlider name="BTAMPecAdjust" size="big" value="100"/>
         <SetSlider name="BTAMShoulderTweaks" size="big" value="58"/>

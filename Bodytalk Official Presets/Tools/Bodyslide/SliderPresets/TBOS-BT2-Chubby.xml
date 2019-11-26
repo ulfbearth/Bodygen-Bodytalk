@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="TBOS-BT2-Chubby" set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
+        <SetSlider name="Erection" size="big" value="0"/>
         <SetSlider name="BT2AdonisBelt" size="big" value="15"/>
         <SetSlider name="BTAMPecAdjust" size="big" value="100"/>
         <SetSlider name="BTAMShoulderTweaks" size="big" value="38"/>

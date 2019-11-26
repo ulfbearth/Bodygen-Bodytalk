@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="TBOS-BT2-Swimmer" set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
+        <SetSlider name="Erection" size="big" value="0"/>
         <SetSlider name="BTAMPecAdjust" size="big" value="10"/>
         <SetSlider name="BTARYAYDA" size="big" value="10"/>
         <SetSlider name="BTAbDefinition" size="big" value="33"/>

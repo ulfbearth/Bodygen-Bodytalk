@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="Tarmane-BigBoi" set="TBOS-BodyTalk-V2">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
         <SetSlider name="BTARYAYDA" size="big" value="14"/>
         <SetSlider name="BTAbDefinition" size="big" value="100"/>
         <SetSlider name="BTChubbyArm" size="big" value="11"/>

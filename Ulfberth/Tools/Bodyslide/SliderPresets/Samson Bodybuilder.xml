@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="Samson Bodybuilder" set="OutfitStudioFrame">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
         <Group name="ASA1"/>
         <Group name="CBBE"/>
         <Group name="Fusion Girl"/>
         <Group name="MLU Male"/>
         <Group name="Super Hero Body"/>
         <Group name="TBOS - BodyTalk - Nude Bodies"/>
-        <Group name="TBOS-BT2"/>
 		<SetSlider name="AryaydaMuscleSlider" size="big" value="100"/>
         <SetSlider name="BTAMPecAdjust" size="big" value="100"/>
         <SetSlider name="BTAMShoulderTweaks" size="big" value="100"/>

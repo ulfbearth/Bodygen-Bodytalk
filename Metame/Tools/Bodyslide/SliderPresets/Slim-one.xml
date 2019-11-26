@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderPresets>
     <Preset name="Slim-one" set="TBOS-BodyTalk-V2-Uncut Ulfberth">
+        <Group name="Vanilla + DLCs Outfits"/>
+        <Group name="TBOS-BT2"/>
         <SetSlider name="BTAbDefinition" size="big" value="0"/>
         <SetSlider name="BTBack" size="big" value="0"/>
         <SetSlider name="BTBackArch" size="big" value="0"/>
